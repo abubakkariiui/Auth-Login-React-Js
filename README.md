@@ -7,4 +7,5 @@ Live Site Link : https://auth-at-tech.netlify.app/login
 
 ![Signup page](https://user-images.githubusercontent.com/88508599/205495455-8acb961d-b974-4fbe-aaf1-3bfa52cbbe37.png)
 
-![image](https://user-images.githubusercontent.com/88508599/208148755-9eb2cf21-74be-421f-b049-07e3f8e7c639.png)
+
+![image](https://user-images.githubusercontent.com/88508599/208148852-451eccc4-a265-480e-8c7d-b7459d7d5658.png)
