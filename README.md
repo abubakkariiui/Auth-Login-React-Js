@@ -1,6 +1,6 @@
 # Auth-Login-for-At-tech
 
-Live Site Link : https://auth-at-tech.netlify.app/login
+Live Site Link : https://auth-at-tech.netlify.app
 
 ![Login Page](https://user-images.githubusercontent.com/88508599/205495447-28dee0d3-b760-4705-899a-05f9e6367906.png)
 
