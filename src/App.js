@@ -4,6 +4,7 @@ import { Route, Routes, Navigate, useLocation } from "react-router-dom";
 import Home from "./pages/Home";
 import Login from "./pages/Login";
 import Signup from "./pages/Signup";
+import ForgotPassword from "./pages/ForgotPassword";
 
 function App() {
   const [auth, setAuth] = useState(false);
@@ -15,6 +16,7 @@ function App() {
       <Routes>
         <Route path="/login" element={<Login setAuth={setAuth} />} />
         <Route path="/signup" element={<Signup setAuth={setAuth} />} />
+        <Route path="/forgot" element={<ForgotPassword />} />
         <Route
           path="/"
           element={
